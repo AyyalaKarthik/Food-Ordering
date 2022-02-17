@@ -1,0 +1,32 @@
+/* All the Below Codes are for Responsive Designs */
+
+
+/* Navigation CSS CODE */
+.navigation{
+
+}
+
+/* Services CSS CODE */
+.Services{
+  display: flex;
+  flex-direction: column;
+
+}
+
+.box{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+
+/* Clients CSS CODe */
+.clientsDiv{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.clientsImages{
+  margin: 20px 20px;
+}
